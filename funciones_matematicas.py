@@ -8,5 +8,7 @@ def restar(a, b):
 
 def multiplicar(*args):
     return math.prod(args)
-    
+
+def division(a, b):
+    return (a/b)
     
